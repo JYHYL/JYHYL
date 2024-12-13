@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :mortar_board: I’m currently learning Data Science in Manchester University
 
-
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=dark&rank_icon=github"
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true"/>
 </picture>
-
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-XMR&layout=compact)
 
 
