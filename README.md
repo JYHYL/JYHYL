@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 
 - :mortar_board: I’m currently learning Data Science in Manchester University
 <br>
+## Languages
+#3776AB
+
+
+
+
+
+
+<br>
 <br>
 <div align="center">
   <picture>
