@@ -30,11 +30,13 @@ Here are some ideas to get you started:
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true"/>
   </picture>
-</div>
 
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-XMR&layout=compact)
 
+</div>
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
