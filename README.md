@@ -50,10 +50,8 @@ Here are some ideas to get you started:
 -->
 ![Murui Xiao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachel-XMR)
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
 
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
+
 
 
