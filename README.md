@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 ![Murui Xiao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachel-XMR)
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+!;Nice+To+Meet+You;Have+A+Good+Day)
