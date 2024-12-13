@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Murui Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=transparent)
+![Murui Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=ark#gh-dark-mode-only)
 
 [![Murui Xiao's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
