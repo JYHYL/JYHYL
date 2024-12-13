@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=dark&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true" />
