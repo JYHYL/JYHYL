@@ -69,4 +69,8 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Rachel-XMR/Rachel-XMR/output/github-contribution-grid-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](https://raw.githubusercontent.com/Rachel-XMR/Rachel-XMR/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
