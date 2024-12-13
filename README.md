@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 </div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=$Rachel-XMR/Rachel-XMR)
+![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${Rachel-XMR})
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=$Rachel-XMR)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${Rachel-XMR})
 
 ![Visitor Count](https://profile-counter.glitch.me/Rachel-XMR/count.svg)
 
