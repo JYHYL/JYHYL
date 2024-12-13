@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${Rachel-XMR})
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=$Rachel-XMR)
 
 ![Visitor Count](https://profile-counter.glitch.me/Rachel-XMR/count.svg)
 
@@ -68,4 +67,4 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
 
 
-
+<a href="javascript:void(0);" onclick="loadVisitorStats();">签到</a>
