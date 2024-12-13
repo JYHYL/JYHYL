@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
 
 </div>
 
