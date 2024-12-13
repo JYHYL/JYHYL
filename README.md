@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 
+## About Me :pushpin:
 
-- :mortar_board: I’m currently learning Data Science in Manchester University
+- :mortar_board: A MSc Data Science student
+- :computer: A Data Science Intern
+- :pencil: I am current learning Machine Learning
+
+  
 <br>
 
 ## Languages
@@ -65,7 +69,6 @@ Here are some ideas to get you started:
 -->
 ![Murui Xiao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachel-XMR)
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[ICON SLUG].svg" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
 
