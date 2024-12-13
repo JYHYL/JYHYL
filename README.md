@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi,👋 I am Rachel(Murui Xiao 蕭沐瑞)
 
 <!--
 **Rachel-XMR/Rachel-XMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - :mortar_board: I’m currently learning Data Science in Manchester University
 
-<picture>
+
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=dark&rank_icon=github"
     media="(prefers-color-scheme: dark)"
