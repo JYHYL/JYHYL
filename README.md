@@ -1,4 +1,4 @@
-# Hi,👋 I am Rachel(Murui Xiao 蕭沐瑞)
+# Hey I am Rachel(Murui Xiao)👋
 
 <!--
 **Rachel-XMR/Rachel-XMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 
 
 - :mortar_board: I’m currently learning Data Science in Manchester University
 <br>
