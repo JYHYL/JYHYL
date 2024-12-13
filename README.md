@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rachel-XMR.id&left_color=green&right_color=red)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rachel-XMR&repo=github-readme-stats)](https://github.com/Rachel-XMR/Rachel_blog.github.io)
