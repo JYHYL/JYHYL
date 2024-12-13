@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachel-XMR)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Rachel-XMR)
+![Murui Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachel-XMR&show_icons=true&theme=transparent)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-XMR)
