@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <!-- PIN card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Murui Xiao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachel-XMR)
+![Murui Xiao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JYHYL)
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+!;NICE+TO+MEET+YOU+!;HAVE+A+GOOD+DAY+!;STUDY+WITH+ME+~)
