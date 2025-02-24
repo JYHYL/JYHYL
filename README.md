@@ -1,4 +1,4 @@
-# Hey I am Rachel(Murui Xiao)👋
+# Hey I am Wanglu Yu👋
 
 <!--
 **Rachel-XMR/Rachel-XMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## About Me :pushpin:
 
 - :mortar_board: A MSc Data Science student
-- :computer: A Data Science Intern
-- :pencil: I am current learning Machine Learning
 
   
 <br>
