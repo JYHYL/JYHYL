@@ -1,7 +1,7 @@
 # Hey I am Wanglu Yu👋
 
 <!--
-**Rachel-XMR/Rachel-XMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JYHYL-XMR/JYHYL-XMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
